@@ -20,5 +20,6 @@ The difference between the compound distribution VaR and Expecte Loss is called 
 
 ![Pic Small](https://user-images.githubusercontent.com/77916301/179454748-e8b84645-b5b0-4d5f-a8e7-9cae31b836cf.jpeg)
 
+Any comments and suggestion would be greatly appreciated.
 
 #Insurance #Loss_Distribution #Distribution_fitting #VaR #Economic_Capital #Normal_Power_Approximation
