@@ -1,5 +1,5 @@
 #Economic Capital
-# The code below was created with the purpose of leveraging automation and reduce distribution fitting for each line ob business separately
+# The code below was created with the purpose of leveraging automation and reduce distribution fitting for each line of business separately
 
 x<-c("fitdistrplus", "readxl","actuar","dplyr", "tidyverse", "tibble", "ggplot2","MASS","magicfor")
 lapply(x, require, character.only = TRUE)
@@ -9,7 +9,7 @@ lapply(x, require, character.only = TRUE)
 # Here we load a sample Excel file consisting of monthly claims data of an imaginary insurance company,
 # we assume that the insurance company underwriting portfolio has only 2 Lines (Fire and Automobile)
 
-File <- read_excel("~/Desktop/Quering/R/Insurance-Economic-Capital/Loss.xlsx")
+File <- read_excel("~/Insurance-Economic-Capital/Loss.xlsx")
 
 #we have a 5-year period record for each Line of Business (LoB)
 View(File)
